@@ -14,10 +14,11 @@ Throughout my career, I have worked in diverse industries, including finance, he
 ```{note}
 As a committed project manager, I have led cross-functional teams and maintained a focus on high-quality work to exceed expectations. As an active member of the data science community, I enjoy participating in conferences and networking events to expand my knowledge and share my insights with others.
 ```
-```{margin} "Quote by Tim Berners-Lee"
-*"Data is a precious thing and will last longer than the systems themselves."* 
- - Tim Berners-Lee
+````{margin}
+```{admonition} "Quote by Tim Berners-Lee"
+*"Data is a precious thing and will last longer than the systems themselves."* - Tim Berners-Lee
 ```
+````
 In summary, I bring a passion for data analysis, a wealth of technical expertise, project management skills, and cross-functional experience to any organization as a data scientist. I am excited about the opportunity to continue to grow and develop in my field, and I look forward to the possibility of contributing to your team.
 
 Thank you for considering my application.
